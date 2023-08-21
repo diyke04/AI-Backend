@@ -4,8 +4,9 @@ origins = [
     "http://localhost:3000",
     "http://localhost:4173/",
     "https://saas-foo.vercel.app",
-    "https://ai-frontend-beta.vercel.app",  
+    "https://ai-frontend-beta.vercel.app",
     "https://saas-frontend-ruby.vercel.app",
-    "https://saas-frontend-niceiyke.verce.app"
+    "https://saas-frontend-niceiyke.verce.app",
+    "https://ai-frontend-jade.vercel.app/",
+    "https://saas.ioyom.com.ng",
 ]
-
